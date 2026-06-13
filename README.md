@@ -79,6 +79,14 @@ An ensemble learning model that combines multiple decision trees to improve pred
 | MAE      | 1.01   |
 | RMSE     | 1.39   |
 | R² Score | 0.9989 |
+## Stock Price Trend
+
+![Stock Trend](stock_trend.png)
+
+
+## Actual vs Predicted Stock Prices
+
+![Actual vs Predicted](actual_vs_predicted.png)
 
 ---
 
@@ -112,9 +120,6 @@ stock-price-forecasting-ml/
 * Model evaluation using MAE, RMSE, and R²
 * Stock market forecasting fundamentals
 
-## Actual vs Predicted Stock Prices
-
-![Actual vs Predicted](actual_vs_predicted.png)
 ---
 
 ## Author
