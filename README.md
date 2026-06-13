@@ -111,7 +111,9 @@ stock-price-forecasting-ml/
 * Regression modeling
 * Model evaluation using MAE, RMSE, and R²
 * Stock market forecasting fundamentals
+## Actual vs Predicted Stock Prices
 
+![Actual vs Predicted](images/actual_vs_predicted.png)
 ---
 
 ## Author
@@ -119,3 +121,4 @@ stock-price-forecasting-ml/
 Lakshaya L
 B.Tech /
 Aspiring Data Scientist & AI Engineer
+
