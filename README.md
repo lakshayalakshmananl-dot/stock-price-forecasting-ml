@@ -117,5 +117,5 @@ stock-price-forecasting-ml/
 ## Author
 
 Lakshaya L
-B.Tech / IIT BS Student
+B.Tech /
 Aspiring Data Scientist & AI Engineer
